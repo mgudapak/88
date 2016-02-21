@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+
+    <title>{% block title %}{% endblock %}</title>
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <!-- STYLESHEETS -->
+    <link rel="stylesheet" href="static/css/normalize.css">
+    <link rel="stylesheet" href="static/css/skeleton.css">
+    <link rel="stylesheet" href="static/css/styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="static/img/favicon.png">
+</head>
+
+<body>
+    {% block body %}
+        <h1>This heading is defined in the parent.</h1>
+    {% endblock %}
+
+    <!-- JAVASCRIPTS -->
+    <script src="static/js/vendor/jquery-2.2.0.js"></script>
+    <script src="static/js/vendor/underscore.js"></script>
+    <script src="static/js/main.js"></script>
+
+    <!-- GOOGLE ANALYTICS: change UA-XXXXX-Y to be your site's ID. -->
+    <!--
+        <script>
+            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+            ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
+        </script>
+        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    -->
+</body>
+
+</html>
