@@ -63,3 +63,12 @@ target/
 
 # virtualenv directory
 venv/
+
+# ignore the flask instance specific configuration files
+instance/
+
+# pycharm ide specific files
+.idea/
+
+# pesky . files in OS X
+.DS_Store
