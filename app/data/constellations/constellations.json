@@ -1,0 +1,1429 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    0.75,
+                    43
+                ],
+                "type": "Point"
+            },
+            "id": "And",
+            "properties": {
+                "desig": "And",
+                "gen": "Andromedae",
+                "name": "Andromeda"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    156,
+                    -36
+                ],
+                "type": "Point"
+            },
+            "id": "Ant",
+            "properties": {
+                "desig": "Ant",
+                "gen": "Antliae",
+                "name": "Antlia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120,
+                    -74
+                ],
+                "type": "Point"
+            },
+            "id": "Aps",
+            "properties": {
+                "desig": "Aps",
+                "gen": "Apodis",
+                "name": "Apus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -22.5,
+                    -5
+                ],
+                "type": "Point"
+            },
+            "id": "Aqr",
+            "properties": {
+                "desig": "Aqr",
+                "gen": "Aquarii",
+                "name": "Aquarius"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69,
+                    8
+                ],
+                "type": "Point"
+            },
+            "id": "Aql",
+            "properties": {
+                "desig": "Aql",
+                "gen": "Aquilae",
+                "name": "Aquila"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102,
+                    -56
+                ],
+                "type": "Point"
+            },
+            "id": "Ara",
+            "properties": {
+                "desig": "Ara",
+                "gen": "Arae",
+                "name": "Ara"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42,
+                    22
+                ],
+                "type": "Point"
+            },
+            "id": "Ari",
+            "properties": {
+                "desig": "Ari",
+                "gen": "Arietis",
+                "name": "Aries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    82.5,
+                    37
+                ],
+                "type": "Point"
+            },
+            "id": "Aur",
+            "properties": {
+                "desig": "Aur",
+                "gen": "Aurigae",
+                "name": "Auriga"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -136.5,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "Boo",
+            "properties": {
+                "desig": "Boo",
+                "gen": "Bo�tis",
+                "name": "Bo�tes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.5,
+                    -42
+                ],
+                "type": "Point"
+            },
+            "id": "Cae",
+            "properties": {
+                "desig": "Cae",
+                "gen": "Caeli",
+                "name": "Caelum"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    84,
+                    72
+                ],
+                "type": "Point"
+            },
+            "id": "Cam",
+            "properties": {
+                "desig": "Cam",
+                "gen": "Camelopardalis",
+                "name": "Camelopardalis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    128.25,
+                    27
+                ],
+                "type": "Point"
+            },
+            "id": "Cnc",
+            "properties": {
+                "desig": "Cnc",
+                "gen": "Cancri",
+                "name": "Cancer"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -168,
+                    43
+                ],
+                "type": "Point"
+            },
+            "id": "CVn",
+            "properties": {
+                "desig": "CVn",
+                "gen": "Canum Venaticorum",
+                "name": "Canes Venatici"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    97.5,
+                    -26
+                ],
+                "type": "Point"
+            },
+            "id": "CMa",
+            "properties": {
+                "desig": "CMa",
+                "gen": "Canis Majoris",
+                "name": "Canis Major"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    109.5,
+                    5
+                ],
+                "type": "Point"
+            },
+            "id": "CMi",
+            "properties": {
+                "desig": "CMi",
+                "gen": "Canis Minoris",
+                "name": "Canis Minor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -45,
+                    -22
+                ],
+                "type": "Point"
+            },
+            "id": "Cap",
+            "properties": {
+                "desig": "Cap",
+                "gen": "Capricorni",
+                "name": "Capricornus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144,
+                    -66
+                ],
+                "type": "Point"
+            },
+            "id": "Car",
+            "properties": {
+                "desig": "Car",
+                "gen": "Carinae",
+                "name": "Carina"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6,
+                    55.5
+                ],
+                "type": "Point"
+            },
+            "id": "Cas",
+            "properties": {
+                "desig": "Cas",
+                "gen": "Cassiopeiae",
+                "name": "Cassiopeia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -160.5,
+                    -40
+                ],
+                "type": "Point"
+            },
+            "id": "Cen",
+            "properties": {
+                "desig": "Cen",
+                "gen": "Centauri",
+                "name": "Centaurus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -22.5,
+                    71
+                ],
+                "type": "Point"
+            },
+            "id": "Cep",
+            "properties": {
+                "desig": "Cep",
+                "gen": "Cephei",
+                "name": "Cepheus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.5,
+                    -5
+                ],
+                "type": "Point"
+            },
+            "id": "Cet",
+            "properties": {
+                "desig": "Cet",
+                "gen": "Ceti",
+                "name": "Cetus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -171,
+                    -81
+                ],
+                "type": "Point"
+            },
+            "id": "Cha",
+            "properties": {
+                "desig": "Cha",
+                "gen": "Chamaeleontis",
+                "name": "Chamaeleon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -142.5,
+                    -67
+                ],
+                "type": "Point"
+            },
+            "id": "Cir",
+            "properties": {
+                "desig": "Cir",
+                "gen": "Circini",
+                "name": "Circinus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    85.5,
+                    -39
+                ],
+                "type": "Point"
+            },
+            "id": "Col",
+            "properties": {
+                "desig": "Col",
+                "gen": "Columbae",
+                "name": "Columba"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.5,
+                    24
+                ],
+                "type": "Point"
+            },
+            "id": "Com",
+            "properties": {
+                "desig": "Com",
+                "gen": "Comae Berenices",
+                "name": "Coma Berenices"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78,
+                    -40
+                ],
+                "type": "Point"
+            },
+            "id": "CrA",
+            "properties": {
+                "desig": "CrA",
+                "gen": "Coronae Austrini",
+                "name": "Corona Austrina"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.5,
+                    32
+                ],
+                "type": "Point"
+            },
+            "id": "CrB",
+            "properties": {
+                "desig": "CrB",
+                "gen": "Coronae Borealis",
+                "name": "Corona Borealis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -174,
+                    -19.5
+                ],
+                "type": "Point"
+            },
+            "id": "Crv",
+            "properties": {
+                "desig": "Crv",
+                "gen": "Corvi",
+                "name": "Corvus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    174.75,
+                    -15
+                ],
+                "type": "Point"
+            },
+            "id": "Crt",
+            "properties": {
+                "desig": "Crt",
+                "gen": "Crateris",
+                "name": "Crater"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.5,
+                    -62
+                ],
+                "type": "Point"
+            },
+            "id": "Cru",
+            "properties": {
+                "desig": "Cru",
+                "gen": "Crux",
+                "name": "Crux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -52.5,
+                    50
+                ],
+                "type": "Point"
+            },
+            "id": "Cyg",
+            "properties": {
+                "desig": "Cyg",
+                "gen": "Cygni",
+                "name": "Cygnus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -51,
+                    6
+                ],
+                "type": "Point"
+            },
+            "id": "Del",
+            "properties": {
+                "desig": "Del",
+                "gen": "Delphini",
+                "name": "Delphinus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    76.5,
+                    -64
+                ],
+                "type": "Point"
+            },
+            "id": "Dor",
+            "properties": {
+                "desig": "Dor",
+                "gen": "Doradus",
+                "name": "Dorado"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5,
+                    64
+                ],
+                "type": "Point"
+            },
+            "id": "Dra",
+            "properties": {
+                "desig": "Dra",
+                "gen": "Draconis",
+                "name": "Draco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -39.75,
+                    11.5
+                ],
+                "type": "Point"
+            },
+            "id": "Equ",
+            "properties": {
+                "desig": "Equ",
+                "gen": "Equulei",
+                "name": "Equuleus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    52.5,
+                    -18
+                ],
+                "type": "Point"
+            },
+            "id": "Eri",
+            "properties": {
+                "desig": "Eri",
+                "gen": "Eridani",
+                "name": "Eridanus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.5,
+                    -28
+                ],
+                "type": "Point"
+            },
+            "id": "For",
+            "properties": {
+                "desig": "For",
+                "gen": "Fornacis",
+                "name": "Fornax"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    107.25,
+                    23.5
+                ],
+                "type": "Point"
+            },
+            "id": "Gem",
+            "properties": {
+                "desig": "Gem",
+                "gen": "Geminorum",
+                "name": "Gemini"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -18,
+                    -41.5
+                ],
+                "type": "Point"
+            },
+            "id": "Gru",
+            "properties": {
+                "desig": "Gru",
+                "gen": "Gruis",
+                "name": "Grus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.5,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "Her",
+            "properties": {
+                "desig": "Her",
+                "gen": "Herculis",
+                "name": "Hercules"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51,
+                    -52
+                ],
+                "type": "Point"
+            },
+            "id": "Hor",
+            "properties": {
+                "desig": "Hor",
+                "gen": "Horologii",
+                "name": "Horologium"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150,
+                    -22
+                ],
+                "type": "Point"
+            },
+            "id": "Hya",
+            "properties": {
+                "desig": "Hya",
+                "gen": "Hydrae",
+                "name": "Hydra"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.5,
+                    -72
+                ],
+                "type": "Point"
+            },
+            "id": "Hyi",
+            "properties": {
+                "desig": "Hyi",
+                "gen": "Hydri",
+                "name": "Hydrus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -42,
+                    -55.5
+                ],
+                "type": "Point"
+            },
+            "id": "Ind",
+            "properties": {
+                "desig": "Ind",
+                "gen": "Indi",
+                "name": "Indus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -18,
+                    47
+                ],
+                "type": "Point"
+            },
+            "id": "Lac",
+            "properties": {
+                "desig": "Lac",
+                "gen": "Lacertae",
+                "name": "Lacerta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    159,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "Leo",
+            "properties": {
+                "desig": "Leo",
+                "gen": "Leonis",
+                "name": "Leo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    157.5,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "LMi",
+            "properties": {
+                "desig": "LMi",
+                "gen": "Leonis Minoris",
+                "name": "Leo Minor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.5,
+                    -25
+                ],
+                "type": "Point"
+            },
+            "id": "Lep",
+            "properties": {
+                "desig": "Lep",
+                "gen": "Leporis",
+                "name": "Lepus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -129,
+                    -26
+                ],
+                "type": "Point"
+            },
+            "id": "Lib",
+            "properties": {
+                "desig": "Lib",
+                "gen": "Librae",
+                "name": "Libra"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.25,
+                    -35
+                ],
+                "type": "Point"
+            },
+            "id": "Lup",
+            "properties": {
+                "desig": "Lup",
+                "gen": "Lupi",
+                "name": "Lupus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.5,
+                    49
+                ],
+                "type": "Point"
+            },
+            "id": "Lyn",
+            "properties": {
+                "desig": "Lyn",
+                "gen": "Lyncis",
+                "name": "Lynx"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "Lyr",
+            "properties": {
+                "desig": "Lyr",
+                "gen": "Lyrae",
+                "name": "Lyra"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    82.5,
+                    -80
+                ],
+                "type": "Point"
+            },
+            "id": "Men",
+            "properties": {
+                "desig": "Men",
+                "gen": "Mensae",
+                "name": "Mensa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.5,
+                    -37
+                ],
+                "type": "Point"
+            },
+            "id": "Mic",
+            "properties": {
+                "desig": "Mic",
+                "gen": "Microscopii",
+                "name": "Microscopium"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    114.75,
+                    -6
+                ],
+                "type": "Point"
+            },
+            "id": "Mon",
+            "properties": {
+                "desig": "Mon",
+                "gen": "Monocerotis",
+                "name": "Monoceros"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -165,
+                    -73
+                ],
+                "type": "Point"
+            },
+            "id": "Mus",
+            "properties": {
+                "desig": "Mus",
+                "gen": "Muscae",
+                "name": "Musca"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117,
+                    -52
+                ],
+                "type": "Point"
+            },
+            "id": "Nor",
+            "properties": {
+                "desig": "Nor",
+                "gen": "Normae",
+                "name": "Norma"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60,
+                    -80
+                ],
+                "type": "Point"
+            },
+            "id": "Oct",
+            "properties": {
+                "desig": "Oct",
+                "gen": "Octantis",
+                "name": "Octans"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102,
+                    3
+                ],
+                "type": "Point"
+            },
+            "id": "Oph",
+            "properties": {
+                "desig": "Oph",
+                "gen": "Ophiuchi",
+                "name": "Ophiuchus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    84,
+                    13
+                ],
+                "type": "Point"
+            },
+            "id": "Ori",
+            "properties": {
+                "desig": "Ori",
+                "gen": "Orionis",
+                "name": "Orion"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -63,
+                    -62
+                ],
+                "type": "Point"
+            },
+            "id": "Pav",
+            "properties": {
+                "desig": "Pav",
+                "gen": "Pavonis",
+                "name": "Pavo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.5,
+                    16
+                ],
+                "type": "Point"
+            },
+            "id": "Peg",
+            "properties": {
+                "desig": "Peg",
+                "gen": "Pegasi",
+                "name": "Pegasus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    66,
+                    45
+                ],
+                "type": "Point"
+            },
+            "id": "Per",
+            "properties": {
+                "desig": "Per",
+                "gen": "Persei",
+                "name": "Perseus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.5,
+                    -43
+                ],
+                "type": "Point"
+            },
+            "id": "Phe",
+            "properties": {
+                "desig": "Phe",
+                "gen": "Phoenicis",
+                "name": "Phoenix"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    82.5,
+                    -50
+                ],
+                "type": "Point"
+            },
+            "id": "Pic",
+            "properties": {
+                "desig": "Pic",
+                "gen": "Pictoris",
+                "name": "Pictor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.5,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "Psc",
+            "properties": {
+                "desig": "Psc",
+                "gen": "Piscium",
+                "name": "Pisces"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -27,
+                    -29
+                ],
+                "type": "Point"
+            },
+            "id": "PsA",
+            "properties": {
+                "desig": "PsA",
+                "gen": "Piscis Austrini",
+                "name": "Piscis Austrinus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    111,
+                    -46
+                ],
+                "type": "Point"
+            },
+            "id": "Pup",
+            "properties": {
+                "desig": "Pup",
+                "gen": "Puppis",
+                "name": "Puppis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132,
+                    -24
+                ],
+                "type": "Point"
+            },
+            "id": "Pyx",
+            "properties": {
+                "desig": "Pyx",
+                "gen": "Pyxidis",
+                "name": "Pyxis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    55.5,
+                    -61
+                ],
+                "type": "Point"
+            },
+            "id": "Ret",
+            "properties": {
+                "desig": "Ret",
+                "gen": "Reticuli",
+                "name": "Reticulum"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69,
+                    18
+                ],
+                "type": "Point"
+            },
+            "id": "Sge",
+            "properties": {
+                "desig": "Sge",
+                "gen": "Sagittae",
+                "name": "Sagitta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -67.5,
+                    -34
+                ],
+                "type": "Point"
+            },
+            "id": "Sgr",
+            "properties": {
+                "desig": "Sgr",
+                "gen": "Sagittarii",
+                "name": "Sagittarius"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111,
+                    -38
+                ],
+                "type": "Point"
+            },
+            "id": "Sco",
+            "properties": {
+                "desig": "Sco",
+                "gen": "Scorpii",
+                "name": "Scorpius"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.5,
+                    -33
+                ],
+                "type": "Point"
+            },
+            "id": "Scl",
+            "properties": {
+                "desig": "Scl",
+                "gen": "Sculptoris",
+                "name": "Sculptor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78,
+                    -12.5
+                ],
+                "type": "Point"
+            },
+            "id": "Sct",
+            "properties": {
+                "desig": "Sct",
+                "gen": "Scuti",
+                "name": "Scutum"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -127.5,
+                    5
+                ],
+                "type": "Point"
+            },
+            "id": "Ser",
+            "properties": {
+                "desig": "Ser",
+                "gen": "Serpentis",
+                "name": "Serpens Caput"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.5,
+                    3
+                ],
+                "type": "Point"
+            },
+            "id": "Ser",
+            "properties": {
+                "desig": "Ser",
+                "gen": "Serpentis",
+                "name": "Serpens Cauda"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    157.5,
+                    -7
+                ],
+                "type": "Point"
+            },
+            "id": "Sex",
+            "properties": {
+                "desig": "Sex",
+                "gen": "Sextantis",
+                "name": "Sextans"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "Tau",
+            "properties": {
+                "desig": "Tau",
+                "gen": "Tauri",
+                "name": "Taurus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.5,
+                    -54
+                ],
+                "type": "Point"
+            },
+            "id": "Tel",
+            "properties": {
+                "desig": "Tel",
+                "gen": "Telescopii",
+                "name": "Telescopium"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27,
+                    34
+                ],
+                "type": "Point"
+            },
+            "id": "Tri",
+            "properties": {
+                "desig": "Tri",
+                "gen": "Trianguli",
+                "name": "Triangulum"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120,
+                    -67.5
+                ],
+                "type": "Point"
+            },
+            "id": "TrA",
+            "properties": {
+                "desig": "TrA",
+                "gen": "Trianguli Australis",
+                "name": "Triangulum Australe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -12,
+                    -64
+                ],
+                "type": "Point"
+            },
+            "id": "Tuc",
+            "properties": {
+                "desig": "Tuc",
+                "gen": "Tucanae",
+                "name": "Tucana"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    165,
+                    48
+                ],
+                "type": "Point"
+            },
+            "id": "UMa",
+            "properties": {
+                "desig": "UMa",
+                "gen": "Ursae Majoris",
+                "name": "Ursa Major"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -133.5,
+                    68
+                ],
+                "type": "Point"
+            },
+            "id": "UMi",
+            "properties": {
+                "desig": "UMi",
+                "gen": "Ursae Minoris",
+                "name": "Ursa Minor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.25,
+                    -46
+                ],
+                "type": "Point"
+            },
+            "id": "Vel",
+            "properties": {
+                "desig": "Vel",
+                "gen": "Velorum",
+                "name": "Vela"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -160.5,
+                    -4
+                ],
+                "type": "Point"
+            },
+            "id": "Vir",
+            "properties": {
+                "desig": "Vir",
+                "gen": "Virginis",
+                "name": "Virgo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    111,
+                    -73
+                ],
+                "type": "Point"
+            },
+            "id": "Vol",
+            "properties": {
+                "desig": "Vol",
+                "gen": "Volantis",
+                "name": "Volans"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.5,
+                    21
+                ],
+                "type": "Point"
+            },
+            "id": "Vul",
+            "properties": {
+                "desig": "Vul",
+                "gen": "Vulpeculae",
+                "name": "Vulpecula"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
