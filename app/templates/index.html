@@ -5,9 +5,26 @@
     <div class="container">
         <div class="row">
             <div>
-                <h4>This heading is from the CHILD page</h4>
                 <p>We have loaded {{ constellations|length }} constellations</p>
-                <p>First constellation is {{ constellations['And'] }}</p>
+
+                <table class="u-full-width">
+                  <thead>
+                    <tr>
+                      <th>Name</th>
+                      <th>Desig</th>
+                      <th>Gen</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {% for key, value in constellations.iteritems() %}
+                        <tr>
+                            <td>{{ value['properties']['name']|e }}</td>
+                            <td>{{ value['properties']['desig']|e }}</td>
+                            <td>{{ value['properties']['gen']|e }}</td>
+                        </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
             </div>
         </div>
     </div>
