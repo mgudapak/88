@@ -18,9 +18,9 @@
                   <tbody>
                     {% for key, value in constellations|dictsort %}
                         <tr>
-                            <td>{{ value['properties']['name']|e }}</td>
+                            <td>{{ value['properties']['name'] }}</td>
                             <td>{{ value['properties']['desig']|e }}</td>
-                            <td>{{ value['properties']['gen']|e }}</td>
+                            <td>{{ value['properties']['gen'] }}</td>
                         </tr>
                     {% endfor %}
                   </tbody>
