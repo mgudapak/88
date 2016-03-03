@@ -4,8 +4,6 @@ from data.constellations import constellations
 
 constellations = constellations
 
-print constellations
-
 app = Flask(__name__, instance_relative_config=True)
 app.config.from_object('config')  # reads from config.py in root folder
 
